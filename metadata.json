@@ -1,0 +1,7 @@
+{
+  "name": "ShadowHub.in",
+  "description": "A premium audio streaming platform for series, podcasts, and storytelling with a dark, immersive UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
